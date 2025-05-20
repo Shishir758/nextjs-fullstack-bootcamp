@@ -1,12 +1,15 @@
-### Tasks:
-- Use this inside an object method to print its own name.
+✅ Task 1: Counter App
+Display a number (initial value: 0)
 
-- Create a function introduce() and use call() to call it with different user objects.
+Add two buttons: "Increment" and "Decrement"
 
-- Create a function with ...rest parameters to add any number of values.
+When clicked, the number should increase or decrease accordingly
 
-- Destructure a person object and print name, age.
+✅ Task 2: Simple ToDo App
+Add an input box to type a task and an "Add" button
 
-- Use spread to merge two objects.
+When the "Add" button is clicked, the task should appear in a list
 
-- Use var and let in different scopes and explain what gets hoisted.
+Each task should have a "Delete" button next to it
+
+Clicking the "Delete" button should remove that task from the list
